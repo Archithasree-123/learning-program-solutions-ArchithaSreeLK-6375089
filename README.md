@@ -13,7 +13,6 @@ This repository contains all my hands-on exercises completed as part of the Digi
 Each week’s submission follows the required folder structure and contains:
 - Java source code
 - Output screenshots
-- Supporting `.docx` documents
 
 ---
 
