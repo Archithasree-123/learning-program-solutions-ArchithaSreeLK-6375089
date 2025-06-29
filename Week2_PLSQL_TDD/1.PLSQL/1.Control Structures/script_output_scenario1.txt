@@ -1,0 +1,48 @@
+
+
+Commit complete.
+
+Elapsed: 00:00:00.001
+
+
+PL/SQL procedure successfully completed.
+
+Elapsed: 00:00:00.008
+
+
+Table CUSTOMERS created.
+
+Elapsed: 00:00:00.012
+
+
+1 row inserted.
+
+Elapsed: 00:00:00.014
+
+
+1 row inserted.
+
+Elapsed: 00:00:00.001
+
+
+1 row inserted.
+
+Elapsed: 00:00:00.001
+
+
+1 row inserted.
+
+Elapsed: 00:00:00.001
+
+
+Commit complete.
+
+Elapsed: 00:00:00.001
+
+1% discount applied to Customer ID: 101
+1% discount applied to Customer ID: 103
+
+
+PL/SQL procedure successfully completed.
+
+Elapsed: 00:00:00.099

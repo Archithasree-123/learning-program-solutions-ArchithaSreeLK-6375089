@@ -1,0 +1,37 @@
+
+
+PL/SQL procedure successfully completed.
+
+Elapsed: 00:00:00.050
+
+
+Table BANKACCOUNTS created.
+
+Elapsed: 00:00:00.016
+
+
+1 row inserted.
+
+Elapsed: 00:00:00.014
+
+
+1 row inserted.
+
+Elapsed: 00:00:00.001
+
+
+Commit complete.
+
+Elapsed: 00:00:00.002
+
+
+Procedure TRANSFERFUNDS compiled
+
+Elapsed: 00:00:00.022
+
+Transfer of ₹3000 from Account 501 to Account 502 successful. - From Architha Sree 
+
+
+PL/SQL procedure successfully completed.
+
+Elapsed: 00:00:00.021

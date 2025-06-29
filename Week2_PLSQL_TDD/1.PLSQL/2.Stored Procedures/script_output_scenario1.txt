@@ -1,0 +1,44 @@
+
+
+PL/SQL procedure successfully completed.
+
+Elapsed: 00:00:00.036
+
+
+Table SAVINGSACCOUNTS created.
+
+Elapsed: 00:00:00.011
+
+
+1 row inserted.
+
+Elapsed: 00:00:00.014
+
+
+1 row inserted.
+
+Elapsed: 00:00:00.001
+
+
+1 row inserted.
+
+Elapsed: 00:00:00.002
+
+
+Commit complete.
+
+Elapsed: 00:00:00.002
+
+
+Procedure PROCESSMONTHLYINTEREST compiled
+
+Elapsed: 00:00:00.020
+
+Interest applied to Account ID: 301
+Interest applied to Account ID: 302
+Interest applied to Account ID: 303
+
+
+PL/SQL procedure successfully completed.
+
+Elapsed: 00:00:00.013

@@ -1,0 +1,43 @@
+
+
+PL/SQL procedure successfully completed.
+
+Elapsed: 00:00:00.035
+
+
+Table LOANS created.
+
+Elapsed: 00:00:00.011
+
+
+1 row inserted.
+
+Elapsed: 00:00:00.014
+
+
+1 row inserted.
+
+Elapsed: 00:00:00.002
+
+
+1 row inserted.
+
+Elapsed: 00:00:00.001
+
+
+1 row inserted.
+
+Elapsed: 00:00:00.001
+
+
+Commit complete.
+
+Elapsed: 00:00:00.002
+
+ Reminder: Loan ID 201 for Customer ID 101 is due on 09-JUL-2025
+ Reminder: Loan ID 203 for Customer ID 103 is due on 04-JUL-2025
+
+
+PL/SQL procedure successfully completed.
+
+Elapsed: 00:00:00.015
